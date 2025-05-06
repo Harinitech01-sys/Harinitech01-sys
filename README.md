@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @Harinitech01-sys
-- 👀 I’m interested in coding and enthusiast coder
-- 🌱 I’m currently learning btech artificial intelligence and data science
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me just contact me through linkedin
-- with profile name harinimurugesan
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Harinitech01-sys/Harinitech01-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Harini, an aspiring AI Engineer and a dedicated student at KGISL Institute of Technology. I’m passionate about leveraging the power of code to build intelligent solutions that solve real-world problems. My journey revolves around exploring the depths of Artificial Intelligence, Machine Learning, and Data Science, while constantly improving my skills in Python, C, and modern development tools. I believe in clean code, continuous learning, and creating projects that make an impact. Whether it's experimenting with neural networks or contributing to open-source, I’m always excited to explore what technology can achieve.
