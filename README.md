@@ -2,23 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,25:302b63,50:24243e,75:00f5ff,100:ff00ff&text=HARINI%20MURUGESAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1 align="center">
-✨ Hi, I'm Harini ✨
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+Healthcare+AI;Building+Real-World+AI+Systems;Future+Production-Level+AI+Engineer"/>
 
-<h3 align="center">
-🚀 AI Engineer in Progress • GenAI Enthusiast • Future Tech Innovator
-</h3>
+<br><br>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+Real-World+AI+Solutions;Exploring+LLMs+%26+Generative+AI;Healthcare+AI+%7C+Cybersecurity+%7C+Quantum+Tech" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harinitech01-sys&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Harinitech01-sys?style=for-the-badge&color=00f5ff" />
-  <img src="https://img.shields.io/github/stars/Harinitech01-sys?style=for-the-badge&color=ff00ff" />
-</p>
+<img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
@@ -26,7 +14,7 @@
 
 # 🌌 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 ```yaml
 Name: Harini Murugesan
@@ -52,43 +40,7 @@ Current Goal:
 
 <div align="center">
 
-## 👩‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
-
----
-
-## 🤖 AI / ML / Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<p>
-Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • LLMs
-</p>
-
----
-
-## 📊 Libraries & Frameworks
-
-<img src="https://skillicons.dev/icons?i=flask" />
-
-<p>
-Pandas • NumPy • Scikit-Learn • Matplotlib • TensorFlow
-</p>
-
----
-
-## ☁️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,grafana,mysql" />
-
----
-
-## ⚛️ Quantum Computing
-
-<p>
-Qiskit • Quantum Circuits • Qubits • Quantum Algorithms
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,tensorflow,pytorch,flask,mysql,docker,git,github,linux,grafana" />
 
 </div>
 
@@ -98,6 +50,10 @@ Qiskit • Quantum Circuits • Qubits • Quantum Algorithms
 
 <div align="center">
 
+<img width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+</div>
+
 | 🔥 Domain | 🚀 Exploring |
 |---|---|
 | 🤖 Generative AI | LLM Applications & AI Agents |
@@ -105,8 +61,6 @@ Qiskit • Quantum Circuits • Qubits • Quantum Algorithms
 | 🛡️ Cybersecurity | AI-based Threat Detection |
 | ⚛️ Quantum Tech | Quantum Algorithms & Research |
 | ☁️ Deployment | Docker + Flask + Scalable APIs |
-
-</div>
 
 ---
 
@@ -118,7 +72,7 @@ Qiskit • Quantum Circuits • Qubits • Quantum Algorithms
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harinitech01-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=FFFFFF" />
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harinitech01-sys&bg_color=0d1117&color=00f5ff&line=ff00ff&point=ffffff&hide_border=true" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harinitech01-sys&bg_color=0d1117&color=00f5ff&line=ff00ff&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -128,23 +82,16 @@ Qiskit • Quantum Circuits • Qubits • Quantum Algorithms
 
 <div align="center">
 
+<img width="350" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+</div>
+
 🩺 Healthcare AI Systems  
 🛡️ Cybersecurity Intelligence  
 🌍 Real-world AI Applications  
 ⚛️ Quantum Computing  
 🤖 LLMs & Autonomous AI Agents  
 📊 Enterprise AI Platforms  
-
-</div>
-
----
-
-# 🏆 Achievements & Vision
-
-✨ Building enterprise-grade AI projects  
-✨ Learning production-level deployment  
-✨ Exploring scalable AI architecture  
-✨ Growing toward becoming a world-class AI Engineer
 
 ---
 
@@ -168,20 +115,10 @@ Qiskit • Quantum Circuits • Qubits • Quantum Algorithms
 
 ---
 
-# 💭 Philosophy
-
 <div align="center">
 
-### *"Transforming ideas into intelligent systems through innovation, curiosity, and code."*
-
-</div>
-
----
-
-<div align="center">
+### 💭 "Transforming ideas into intelligent systems through innovation, curiosity, and code."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,25:302b63,50:24243e,75:00f5ff,100:ff00ff"/>
-
-### 🌟 Made with ❤️ by Harini Murugesan
 
 </div>
