@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img width="420" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1200&auto=format&fit=crop"/>
+<img width="420" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop"/>
 
 </div>
 
