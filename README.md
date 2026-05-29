@@ -4,8 +4,55 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+Healthcare+AI;Building+Real-World+AI+Systems;Future+Production-Level+AI+Engineer"/>
 
-<br><br>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harinitech01-sys&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/Harinitech01-sys?style=for-the-badge&color=00f5ff" />
+  
+  <img src="https://img.shields.io/github/stars/Harinitech01-sys?style=for-the-badge&color=ff00ff" />
+</p>
+
+<br>
+
 <img width="420" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛡️ Open To Collaboration
+
+<table>
+<tr>
+<td align="center">
+
+✨ AI/ML Projects  
+🤖 Generative AI Applications  
+🧠 LLM Systems  
+⚛️ Quantum Computing Research  
+🚀 Open Source Contributions  
+
+<br>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00F5FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+✦ ─────────── ✨ ─────────── ✦
+```
 
 </div>
 
@@ -35,11 +82,25 @@ Current Goal:
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=2"/>
+
+---
+
 # ⚡ Tech Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,tensorflow,pytorch,flask,mysql,docker,git,github,linux,grafana" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+✦ ─────────── 🚀 ─────────── ✦
+```
 
 </div>
 
@@ -63,6 +124,10 @@ Current Goal:
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:ff00ff&height=2"/>
+
+---
+
 # 📈 GitHub Analytics
 
 <div align="center">
@@ -71,7 +136,29 @@ Current Goal:
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harinitech01-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=FFFFFF" />
 
+<br><br>
+
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harinitech01-sys&bg_color=0d1117&color=00f5ff&line=ff00ff&point=ffffff&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Harinitech01-sys/Harinitech01-sys/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+✦ ─────────── 🧠 ─────────── ✦
+```
 
 </div>
 
@@ -91,6 +178,10 @@ Current Goal:
 ⚛️ Quantum Computing  
 🤖 LLMs & Autonomous AI Agents  
 📊 Enterprise AI Platforms  
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:6a11cb&height=2"/>
 
 ---
 
@@ -116,8 +207,26 @@ Current Goal:
 
 <div align="center">
 
-### 💭 "Transforming ideas into intelligent systems through innovation, curiosity, and code."
+<table>
+<tr>
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,25:302b63,50:24243e,75:00f5ff,100:ff00ff"/>
+# 💭 Philosophy
+
+### *"Building intelligent systems that transform ideas into impactful innovations."*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,25:004e92,50:6a11cb,75:2575fc,100:ff00ff"/>
+
+### 🌟 Made with ❤️ by Harini Murugesan
 
 </div>
