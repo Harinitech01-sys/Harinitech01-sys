@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="420" src="https://cdn.pixabay.com/photo/2024/06/25/06/34/ai-generated-8853084_1280.jpg"/>
 
 </div>
 
