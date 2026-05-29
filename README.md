@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,25:302b63,50:24243e,75:00f5ff,100:ff00ff&text=HARINI%20MURUGESAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,25:004e92,50:6a11cb,75:2575fc,100:ff00ff&text=HARINI%20MURUGESAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+Healthcare+AI;Building+Real-World+AI+Systems;Future+Production-Level+AI+Engineer"/>
 
