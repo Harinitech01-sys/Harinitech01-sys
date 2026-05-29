@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img width="420" src="https://cdn.pixabay.com/photo/2024/06/25/06/34/ai-generated-8853084_1280.jpg"/>
+<img width="420" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop"/>
 
 </div>
 
