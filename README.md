@@ -1,19 +1,99 @@
-<div align="center">
+## ✨ ʜɪ ᴛʜᴇʀᴇ! ɪ'ᴍ ʜᴀʀɪɴɪ — ᴀɴ ᴀᴍʙɪᴛɪᴏᴜꜱ ᴀɪ ᴇɴɢɪɴᴇᴇʀ & ᴇɴᴛʜᴜꜱɪᴀꜱᴛɪᴄ ᴄᴏᴅᴇʀ ᴡʜᴏ ʟᴏᴠᴇꜱ ʙᴜɪʟᴅɪɴɢ ᴍᴇᴀɴɪɴɢꜰᴜʟ ᴛᴇᴄʜ.
 
-<!-- 🌌 GALAXY HEADER -->
+<h1 align="center">Hi there, I'm Harini 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:1a1b4b,50:3b0a45,75:00f5ff,100:ff00ff&text=HARINI%20MURUGESAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+🎓 Student @ KGISL Institute of Technology <br>
+💡 AI Enthusiast | 💻 Passionate Programmer | 🌱 Lifelong Learner
+</p>
 
-<!-- ✨ GALAXY TYPING ANIMATION -->
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=🌌+GALAXY+AI+ENGINEER+ONLINE;⚡+NEURAL+NETWORKS+CONNECTED;🧠+BUILDING+INTELLIGENT+SYSTEMS;🚀+MACHINE+LEARNING+%7C+LLMs+%7C+GENAI;✨+WELCOME+TO+MY+DIGITAL+UNIVERSE" />
+## 🧠 About Me
 
-<!-- 🌠 GALAXY GIF -->
+I'm Harini, an **AI Engineer-in-progress**, passionate about turning ideas into intelligent solutions.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h2cW5ncnV6dTQ0d2Q5dW5iNnJvN2NnZ3F6aTV4dDNnOHN6YzM4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"/>
+- 🔭 Currently working on AI/ML & GenAI projects  
+- 🧠 Exploring LLMs, Prompt Engineering & AI systems  
+- 🤖 Interested in Healthcare AI, Cybersecurity & Quantum Computing  
+- 🎯 Goal: Become a Production-Level AI Engineer  
 
-<!-- 🌌 NEON DIVIDER -->
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="100%"/>
+## 🔧 Tech Stack
 
-</div>
+### 👩‍💻 Programming
+Python • JavaScript • Java • C • C++
+
+### 🤖 AI / ML / Data Science
+Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • LLMs
+
+### 📊 Libraries & Frameworks
+Pandas • NumPy • Scikit-learn • TensorFlow • Matplotlib
+
+### 🧪 Data & Analytics
+SQL • Tableau • PySpark
+
+### ☁️ Tools & Platforms
+Git • GitHub • Docker • Flask • Linux • Grafana
+
+### ⚛️ Quantum Computing
+Qiskit • Quantum Circuits • Qubits
+
+---
+
+## 🚀 Featured Interests
+
+- 🩺 Healthcare AI Systems  
+- 🛡️ Cybersecurity AI Models  
+- 🌍 Real-world ML Applications  
+- ⚛️ Quantum Computing Exploration  
+- 🤖 GenAI + LLM Systems  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harinitech01-sys&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinitech01-sys&theme=radical" width="48%">
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Generative AI applications  
+- LLM-based systems  
+- AI-powered healthcare solutions  
+- Scalable ML deployment (Docker + Flask)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+<i>“Striving to turn ideas into impactful solutions through code.”</i>
+</p>
+
+---
+
+## 🌟 Footer
+
+<p align="center">
+Made with ❤️ by Harini | Always Learning, Always Growing
+</p>
