@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+Healthcare+AI;Building+Real-World+AI+Systems;Future+Production-Level+AI+Engineer"/>
 
 <br><br>
-<img width="420" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&auto=format&fit=crop"/>
+<img width="420" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop"/>
 
 </div>
 
